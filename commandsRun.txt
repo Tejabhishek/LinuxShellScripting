@@ -1,0 +1,501 @@
+149  FLASK_APP=./word_array.py flask run
+ 150  cp ~/Desktop/word_array.py .
+ 151  FLASK_APP=./word_array.py flask run
+ 152  cp ~/Desktop/word_array.py .
+ 153  FLASK_APP=./word_array.py flask run
+ 154  pip install requests
+ 155  cp ~/Desktop/word_array.py .
+ 156  FLASK_APP=./word_array.py flask run
+ 157  cp ~/Desktop/word_array.py .
+ 158  FLASK_APP=./word_array.py flask run
+ 159  cp ~/Desktop/word_array.py .
+ 160  FLASK_APP=./word_array.py flask run
+ 161  cp ~/Desktop/word_array.py .
+ 162  FLASK_APP=./word_array.py flask run
+ 163  cp ~/Desktop/word_array.py .
+ 164  FLASK_APP=./word_array.py flask run
+ 165  cp ~/Desktop/word_array.py .
+ 166  FLASK_APP=./word_array.py flask run
+ 167  cp ~/Desktop/word_array.py .
+ 168  FLASK_APP=./word_array.py flask run
+ 169  cp ~/Desktop/word_array.py .
+ 170  FLASK_APP=./word_array.py flask run
+ 171  FLASK_APP=./word_array.py flask run
+ 172  cp ~/Desktop/word_array.py .
+ 173  FLASK_APP=./word_array.py flask run
+ 174  cp ~/Desktop/word_array.py .
+ 175  FLASK_APP=./word_array.py flask run
+ 176  cp ~/Desktop/word_array.py .
+ 177  FLASK_APP=./word_array.py flask run
+ 178  cp ~/Desktop/word_array.py .
+ 179  FLASK_APP=./word_array.py flask run
+ 180  cp ~/Desktop/word_array.py .
+ 181  FLASK_APP=./word_array.py flask run
+ 182  cp ~/Desktop/word_array.py .
+ 183  FLASK_APP=./word_array.py flask run
+ 184  cp ~/Desktop/word_array.py .
+ 185  FLASK_APP=./word_array.py flask run
+ 186  cp ~/Desktop/word_array.py .
+ 187  FLASK_APP=./word_array.py flask run
+ 188  cd PythonProjects/
+ 189  ls
+ 190  cd wordarray/
+ 191  ls
+ 192  cd my_project/
+ 193  ls
+ 194  cd ..
+ 195  activate my_project/
+ 196  source my_project/bin/activate
+ 197  cp ~/Desktop/word_array.py .
+ 198  FLASK_APP=./word_array.py flask run
+ 199  cp ~/Desktop/word_array.py .
+ 200  FLASK_APP=./word_array.py flask run
+ 201  cp ~/Desktop/word_array.py .
+ 202  FLASK_APP=./word_array.py flask run
+ 203  cp ~/Desktop/word_array.py .
+ 204  FLASK_APP=./word_array.py flask run
+ 205  cp ~/Desktop/word_array.py .
+ 206  FLASK_APP=./word_array.py flask run
+ 207  export FLASK_DEBUGUG=1
+ 208  cp ~/Desktop/word_array.py .
+ 209  FLASK_APP=./word_array.py flask run
+ 210  cp ~/Desktop/word_array.py .
+ 211  export FLASK_DEBUG=1
+ 212  cp ~/Desktop/word_array.py .
+ 213  FLASK_APP=./word_array.py flask run
+ 214  cp ~/Desktop/word_array.py .
+ 215  export FLASK_DEBUG=0
+ 216  cp ~/Desktop/word_array.py .
+ 217  cp ~/Desktop/word_array.py .
+ 218  FLASK_APP=./word_array.py flask run
+ 219  cp ~/Desktop/word_array.py .
+ 220  FLASK_APP=./word_array.py flask run
+ 221  cp ~/Desktop/word_array.py .
+ 222  FLASK_APP=./word_array.py flask run
+ 223  cp ~/Desktop/word_array.py .
+ 224  FLASK_APP=./word_array.py flask run
+ 225  cp ~/Desktop/word_array.py .
+ 226  FLASK_APP=./word_array.py flask run
+ 227  cp ~/Desktop/word_array.py .
+ 228  FLASK_APP=./word_array.py flask run
+ 229  cp ~/Desktop/word_array.py .
+ 230  FLASK_APP=./word_array.py flask run
+ 231  cp ~/Desktop/word_array.py .
+ 232  FLASK_APP=./word_array.py flask run
+ 233  cp ~/Desktop/word_array.py .
+ 234  FLASK_APP=./word_array.py flask run
+ 235  cp ~/Desktop/word_array.py .
+ 236  FLASK_APP=./word_array.py flask run
+ 237  cp ~/Desktop/word_array.py .
+ 238  FLASK_APP=./word_array.py flask run
+ 239  pip install pipenv
+ 240  brew install heroku/brew/heroku
+ 241  heroku login
+ 242  git clone https://github.com/heroku/python-getting-started.git
+ 243  heroku create
+ 244  git push heroku master
+ 245  cd python-getting-started
+ 246  git push heroku master
+ 247  heroku create
+ 248  git push heroku master
+ 249  heroku ps:scale web=1
+ 250  cd ..
+ 251  ls
+ 252  pip freeze > requirements.txt
+ 253  pip install gunicorn
+ 254  pip freeze > requirements.txt
+ 255  vi Procfile
+ 256  ls
+ 257  heroku create word_array_api
+ 258  heroku create word_array_api
+ 259  heroku create word-array-api
+ 260  Heroku master
+ 261  git push heroku master
+ 262  ls
+ 263  heroku create
+ 264  git push heroku master
+ 265  ls
+ 266  cd my_project/
+ 267  ls
+ 268  cd bin
+ 269  ls
+ 270  cd ..
+ 271  cd ..
+ 272  ls
+ 273  git init
+ 274  heroku git:remote -a word-array-api2
+ 275  git add .
+ 276  git rm --cached python-getting-started
+ 277  git rm -f --cached python-getting-started
+ 278  git commit -am "deploy"
+ 279  git push heroku mastergit push heroku master
+ 280  heroku logs --tail
+ 281  ls
+ 282  heroku git:remote -a word-array-api2heroku ps:scale web=1
+ 283  heroku ps:scale web=1
+ 284  git push heroku master
+ 285  heroku git:remote -a word-array-api2heroku ps:scale web=1heroku ps:scale web=1
+ 286  heroku open
+ 287  vi Procfile
+ 288  git push heroku master
+ 289  git add Procfile
+ 290  git push heroku master
+ 291  heroku ps:scale web=1
+ 292  FLASK_APP=./word_array.py flask runFLASK_APP=./word_array.py flask run
+ 293  cd Desktop
+ 294  ls
+ 295  javac HelloWorld.java
+ 296  java HelloWorld
+ 297  javac HelloWorld.java
+ 298  java HelloWorld.java
+ 299  java HelloWorld
+ 300  javadoc HelloWorld.java
+ 301  twurl /1.1/search/tweets.json?q=twitterdev%20new%20premium
+ 302  cd PythonP
+ 303  cd PythonProjects/
+ 304  ls
+ 305  cd CMT/
+ 306  ls
+ 307  touch config.py requirements.txt run.py
+ 308  cd app
+ 309  ls
+ 310  touch __init__.py models.py views.py
+ 311  export WORKON_HOME=~/Envs
+ 312  source /usr/local/bin/virtualenvwrapper.sh
+ 313  pip install virtualenvwrapper
+ 314  export WORKON_HOME=~/Envs
+ 315  source /usr/local/bin/virtualenvwrapper.sh
+ 316  mkvirtualenv my-venv
+ 317  workon my-venv
+ 318  pip freeze
+ 319  pip freeze > requirements.txt
+ 320  cd ..
+ 321  ld
+ 322  ls
+ 323  touch hello_world.py
+ 324  export FLASK_APP=hello_world.py
+ 325  flask run
+ 326  export FLASK_APP=run.py
+ 327  flask run
+ 328  export FLASK_APP=run.py
+ 329  flask run
+ 330  export FLASK_APP=run.py
+ 331  flask run
+ 332  cd app/templates
+ 333  touch base.html index.html about.html
+ 334  export FLASK_APP=run.py
+ 335  flask run
+ 336  cd ..
+ 337  cd ..
+ 338  ls
+ 339  export FLASK_APP=run.py
+ 340  flask run
+ 341  export FLASK_APP=run.py
+ 342  flask run
+ 343  export FLASK_APP=run.py
+ 344  flask run
+ 345  pip install flask-sqlalchemy mysql-python
+ 346  pip install mysql-python
+ 347  pip freeze
+ 348  pip install flask-sqlalchemy
+ 349  pip install mysql-python
+ 350  pip install --upgrade setuptools
+ 351  pip install MySQL-python
+ 352  brew install mysql
+ 353  pip install MySQL-python
+ 354  brew link mysql
+ 355  pip install MySQL-python
+ 356  virtualenv -p /usr/bin/python2.7 venv
+ 357  lsvirtualenv
+ 358  pip install mysql-python
+ 359  python --version
+ 360  deactivate
+ 361  source my-venv/bin/activate
+ 362  virtualenv my-venv --python=python2.7
+ 363  source my-venv/bin/activate
+ 364  python --version
+ 365  pip install flask-sqlalchemy mysql-python
+ 366  mysql -u root
+ 367  mysql -u root
+ 368  mysql -u root -p
+ 369  export FLASK_CONFIG=development
+ 370  export FLASK_APP=run.py
+ 371  flask run
+ 372  export FLASK_APP=run.py
+ 373  flask run
+ 374  pip install flask-login
+ 375  flask db init
+ 376  pip install flask-migrate
+ 377  flask db init
+ 378  flask db migrate
+ 379  flask db upgrade
+ 380  mysql -u root
+ 381  mysql -u root -p
+ 382  tree
+ 383  cd app
+ 384  ls
+ 385  cd admin
+ 386  touch __init__.py forms.py views.py
+ 387  ls
+ 388  cd ..
+ 389  ls
+ 390  cd auth/
+ 391  touch __init__.py forms.py views.py
+ 392  cd ..
+ 393  cd home
+ 394  ls
+ 395  touch __init__.py views.py
+ 396  git commit -m "Base App"
+ 397  git add --all
+ 398  git commit -m "Base App"
+ 399  git status
+ 400  cd ..
+ 401  cd ..
+ 402  git add --all
+ 403  git add --all
+ 404  git add --all
+ 405  git add --all
+ 406  git add --all
+ 407  export FLASK_APP=run.py
+ 408  flask run
+ 409  export FLASK_APP=run.py
+ 410  flask run
+ 411  export FLASK_APP=run.py
+ 412  flask run
+ 413  export FLASK_APP=run.py
+ 414  flask run
+ 415  export FLASK_APP=run.py
+ 416  flask run
+ 417  export FLASK_APP=run.py
+ 418  flask run
+ 419  ls
+ 420  cd Deskop
+ 421  ls
+ 422  cd ~/Desktop
+ 423  ls
+ 424  FLASK_APP=./word_array.py flask run
+ 425  source my_project/bin/activate
+ 426  venv my_project
+ 427  source my_project/bin/activate
+ 428  cd ~
+ 429  ls
+ 430  cd my-project/
+ 431  ls
+ 432  cd app
+ 433  ls
+ 434  cd ..
+ 435  cd ..
+ 436  ls
+ 437  cd myproject/
+ 438  ls
+ 439  cd ..
+ 440  cd ComplianceManager/
+ 441  ls
+ 442  cd ..
+ 443  cd Demo-website/
+ 444  ls
+ 445  cd ..
+ 446  cd Pro
+ 447  cd Projects/
+ 448  ls
+ 449  cd Test/
+ 450  ls
+ 451  cd ..
+ 452  cd ..
+ 453  cd PythonProjects/
+ 454  ls
+ 455  cd wordarray/
+ 456  ls
+ 457  FLASK_APP=./word_array.py flask run
+ 458  source my_project/bin/activate
+ 459  FLASK_APP=./word_array.py flask run
+ 460  FLASK_APP=./word_array.py flask run
+ 461  lsvirtualenv
+ 462  lsvirtualenv
+ 463  pip install virtualenv
+ 464  virtualenv --version
+ 465  pip install virtualenv
+ 466  pip install virtualenv
+ 467  lsvirtualenv
+ 468  cdvirtualenv
+ 469  sudo pip install virtualenvwrapper
+ 470  nano ~/.bash_profile
+ 471  nano ~/.bash_profilesource ~/.bash_profile
+ 472  source ~/.bash_profile
+ 473  sudo pip install virtualenv
+ 474  sudo pip install virtualenvwrapper
+ 475  nano ~/.bash_profile
+ 476  pip3
+ 477  pip2
+ 478  sudo pip2 install virtualenv
+ 479  sudo pip2 install virtualenvwrapper
+ 480  lsvirtualenv
+ 481  xcode-select --install
+ 482  git
+ 483  python
+ 484  python3
+ 485  echo "hello"
+ 486  echo "hello\!"
+ 487  echo "hello"\!""
+ 488  echo -e "\e1;31m This is red text \e[0m"
+ 489  echo -e "\e[1;31m This is red text \e[0m"
+ 490  echo -e "\e[1;31m This is red text \e[0m"
+ 491  ./bash_profile
+ 492  vi ./bash_profile
+ 493  vi ./bash_profile.rc
+ 494  open ~/.bash_profile
+ 495  echo -e "\e[1;31m This is red text \e[0m"
+ 496  echo $shell
+ 497  echo $SHELL
+ 498  exit
+ 499  for((i=16; i<256; i++)); do     printf "\e[48;5;${i}m%03d" $i;     printf '\e[0m';     [ ! $((($i - 15) % 6)) -eq 0 ] && printf ' ' || printf '\n'; done
+ 500  exit
+ 501  md
+ 502  mkdir learningbash
+ 503  cd learningbash/
+ 504  ls
+ 505  touch hello.sh
+ 506  atom hello.s
+ 507  atom hello.sh
+ 508  bash hello.sh
+ 509  hello.sh
+ 510  ./hello.sh
+ 511  chmod 755 hello.sh
+ 512  ./hello.sh
+ 513  touch greeting.sh
+ 514  atom greeting.sh
+ 515  bash greeting.sh
+ 516  bash greeting.sh
+ 517  touch params.sh
+ 518  chmod 755 params.sh
+ 519  atom params.sh
+ 520  ./params.sh
+ 521  ./params.sh joe
+ 522  ./params.sh hello joe
+ 523  ./params.sh joe
+ 524  ./params.sh joe
+ 525  ./params.sh joe
+ 526  ./params.sh joe
+ 527  ./params.sh joe
+ 528  ./params.sh joe
+ 529  ./params.sh joe
+ 530  ./params.sh joe
+ 531  pwd
+ 532  pwd
+ 533  ./params.sh joe
+ 534  ./params.sh joe
+ 535  echo $?
+ 536  ./params.sh joe
+ 537  echo $?
+ 538  echo $?
+ 539  ./params.sh joe
+ 540  echo $?
+ 541  echo $?
+ 542  touch sport.sh
+ 543  atom sport.sh
+ 544  atom sport.sh
+ 545  bash sport.sh
+ 546  bash sport.sh
+ 547  bash sport.sh Teja Cricket
+ 548  chmod 755 sport.sh
+ 549  ./sport.sh
+ 550  touch if.sh
+ 551  atom if.sh
+ 552  chmod 755 if.sh
+ 553  ./if.sh
+ 554  ./if.sh
+ 555  ./if.sh
+ 556  ./if.sh orange 40
+ 557  ./if.sh orange 55
+ 558  ./if.sh blue 55
+ 559  ./if.sh blue 50
+ 560  ./if.sh blue 50
+ 561  ./if.sh blue 555
+ 562  touch while.sh
+ 563  chmod 755 while.sh
+ 564  atom while.sh
+ 565  ./while.sh
+ 566  touch for.sh
+ 567  chmod 755 for.sh
+ 568  atom for.sh
+ 569  ./for.sh
+ 570  ./for.sh hi hello
+ 571  ./for.sh hi hello
+ 572  ./for.sh abhi shek teja
+ 573  touch counter.sh
+ 574  chmod 755 counter.sh
+ 575  atom counter.sh
+ 576  ./counter.sh 10
+ 577  ./counter.sh 10
+ 578  ./counter.sh 10
+ 579  ./counter.sh 10
+ 580  ./counter.sh 10
+ 581  ./counter.sh 10
+ 582  ./counter.sh 20
+ 583  git init
+ 584  git add --all
+ 585  git commit -m "Shell Scripts"
+ 586  git status
+ 587  tree
+ 588  touch vars.sh
+ 589  chmod 755 vars.sh
+ 590  atom vars.sh
+ 591  ./vars.sh
+ 592  ./vars.sh
+ 593  touch demo.sh
+ 594  ls -lart
+ 595  ./demo.sh
+ 596  bash demo.sh
+ 597  chmod 755 demo.sh
+ 598  ./demo.sh
+ 599  man chmod
+ 600  touch env.sh
+ 601  chmod 755 env.sh
+ 602  atom env
+ 603  atom env.sh
+ 604  ./env.sh
+ 605  ./env.sh
+ 606  touch func.sh
+ 607  chmod 755 func.sh
+ 608  atom func.sh
+ 609  atom func.sh
+ 610  ./func.sh
+ 611  ./func.sh
+ 612  touch pipe.sh
+ 613  chmod 755 pipe.sh
+ 614  atom pipe.sh
+ 615  ./pipe.sh
+ 616  ls -l
+ 617  ls
+ 618  ls -1
+ 619  ls -l
+ 620  touch pfunc.sh
+ 621  chmod 755 pfunc.sh
+ 622  atom pfunc.sh
+ 623  ./pfunc.sh
+ 624  ./pfunc.sh
+ 625  ./pfunc.sh
+ 626  ./pfunc.sh
+ 627  ./pfunc.sh
+ 628  ./pfunc.sh
+ 629  ./pfunc.sh
+ 630  ./pfunc.sh
+ 631  ./pfunc.sh
+ 632  ./pfunc.sh
+ 633  ./pfunc.sh
+ 634  ./pfunc.sh
+ 635  ./pfunc.sh
+ 636  touch names.txt
+ 637  atom names.txt
+ 638  touch reader.sh
+ 639  chmod 755 reader.sh
+ 640  atom reader.sh
+ 641  ./reader.sh
+ 642  ./reader.sh names.txt
+ 643  ./reader.sh names.txt
+ 644  ./reader.sh names.txt
+ 645  ./reader.sh names.txt
+ 646  ./reader.sh names.txt > output.txt
+ 647  ./reader.sh names.txt >> output.txt
+ 648  history
+bash-3.2$
