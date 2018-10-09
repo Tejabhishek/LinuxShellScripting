@@ -13,6 +13,7 @@ while [ $STATUS -eq 0 ]
 do
   ps $1 > /dev/null
   STATUS=$?
+  echo $STATUS
 done
 
 echo "Process $1 has terminated"
